@@ -6,4 +6,8 @@ Genesis
 Exodus
 Leviticus
 
+Numbers
+Deuteronomy
+First Books
+
 AMEN
